@@ -1,0 +1,5 @@
+/Users/santa/Projects/Circle_formula/Circle_formula/obj/x86/Debug/Circle_formula.csproj.CoreCompileInputs.cache
+/Users/santa/Projects/Circle_formula/Circle_formula/bin/Debug/Circle_formula.exe
+/Users/santa/Projects/Circle_formula/Circle_formula/bin/Debug/Circle_formula.pdb
+/Users/santa/Projects/Circle_formula/Circle_formula/obj/x86/Debug/Circle_formula.exe
+/Users/santa/Projects/Circle_formula/Circle_formula/obj/x86/Debug/Circle_formula.pdb
